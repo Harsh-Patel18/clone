@@ -1,0 +1,198 @@
+*{
+
+  margin: 0px;
+  font-family: arial;
+  border: border-box;
+
+}
+
+.nav-bar{
+
+  height: 60px;
+  width: 100%;
+  color: aliceblue;
+  background-color: black;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+
+.nav-logo{
+
+  height: 25px;
+  width: 100px;
+  background-color:black;
+  background-image: url(perfect_logo.jpg);
+  background-size :contain;
+  background-repeat: no-repeat;
+}
+
+.nav-add{
+
+  height: 40px;
+  width: 100px;
+  font-size: 12px;
+}
+
+.nav-img{
+
+  display: flex;
+}
+
+.fa-solid{
+  font-size: 1rem;
+}
+.india{
+  font-size: 16px;
+  margin-left: 3px;
+}
+
+.dt{
+  margin-left: 15px;
+}
+
+
+.border{
+  border: 2px solid transparent;
+}
+
+.border:hover{
+  border: 2px solid white;
+}
+
+.nav-search{
+  height: 38px;
+  width: 540px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.all{
+
+  height:38px;
+  width: 55px;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+.search-input{
+
+  height: 32px;
+  width: 330px;
+}
+
+.search-icon{
+  height:38px;
+  width: 50px;
+  background-color: orange;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+
+.nav-sign{
+
+  height: 40px;
+  width: 130px;
+  font-size: 12px;
+}
+
+.lists{
+
+  font-size: 16px;
+}
+
+.nav-return{
+
+  height: 40px;
+  width:100px;
+  font-size: 12px;
+}
+
+.orders{
+
+  font-size: 16px;
+}
+
+.nav-cart{
+
+  height: 40px;
+  width: 100px;
+  font-size: 16px;
+}
+
+.nav-cart i{
+  font-size: 1.5rem;
+}
+
+/* nav-second */
+
+
+.nav-second{
+
+  height: 40px;
+  width: 100%;
+  color: aliceblue;
+  background-color: rgb(22, 223, 96);
+}
+
+.nav-all{
+  height:39px ;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  margin-left: 15px;
+}
+
+.all{
+
+  height:28px;
+  width: 35px;
+  display: flex;
+  align-items: center;
+  margin-left: 3px;
+}
+
+.list{
+
+  height: 28px;
+  width: 70%;
+  display: flex;
+  align-items: center;
+}
+
+.o{
+  height: 28px;
+  width: 102px;
+  display: flex;
+  align-items: center;
+}
+.i{
+  height: 28px;
+  width: 70px;
+  display: flex;
+  align-items: center;
+}
+.u{
+  height: 28px;
+  width: 128px;
+  display: flex;
+  align-items: center;
+}
+.y{
+  height: 28px;
+  width: 80px;
+  display: flex;
+  align-items: center;
+}
+.t{
+  height: 28px;
+  width: 41px;
+  display: flex;
+  align-items: center;
+}
+
